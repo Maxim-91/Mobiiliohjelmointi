@@ -11,6 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.EventHandling">
+
+        <!-- Task 1 Activity (used for testing via Run Configuration) -->
         <activity
             android:name=".TehtYks"
             android:exported="true"
@@ -22,6 +24,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!-- Task 2 Activity (used for testing via Run Configuration) -->
+        <activity
+            android:name=".TehtKaks"
+            android:exported="true" />
+
     </application>
 
 </manifest>
