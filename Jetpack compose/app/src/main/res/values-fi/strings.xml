@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Jetpack compose</string>
+
+    <string name="personal_info">Omat tiedot</string>
+
+    <string name="app_title">Sportti Appi</string>
+
+    <string name="swimming">Uinti</string>
+    <string name="running">Juoksu</string>
+    <string name="cycling">Pyöräily</string>
+    <string name="gym">Sali</string>
+    <string name="skiing">Hiihto</string>
+    <string name="dancing">Tanssi</string>
+</resources>

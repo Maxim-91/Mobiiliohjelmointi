@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Jetpack compose</string>
+
+    <string name="personal_info">Personal Info</string>
+
+    <string name="app_title">My SportApp</string>
+
+    <string name="swimming">Swimming</string>
+    <string name="running">Running</string>
+    <string name="cycling">Cycling</string>
+    <string name="gym">Gym</string>
+    <string name="skiing">Skiing</string>
+    <string name="dancing">Dancing</string>
+</resources>
