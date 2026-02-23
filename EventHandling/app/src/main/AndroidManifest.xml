@@ -30,6 +30,27 @@
             android:name=".TehtKaks"
             android:exported="true" />
 
+        <!-- Task 3 Activity (used for testing via Run Configuration) -->
+        <activity
+            android:name=".TehtKol"
+            android:exported="true" />
+
+        <!-- Task 4 Activity (used for testing via Run Configuration) -->
+        <activity
+            android:name=".TehtNel"
+            android:exported="true" />
+
+        <!-- Task 5 Activity (used for testing via Run Configuration) -->
+        <activity
+            android:name=".TehtViis"
+            android:exported="true" />
+
+        <!-- Task 6 Activity (used for testing via Run Configuration) -->
+        <activity
+            android:name=".TehtKuus"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize"/>
+
     </application>
 
 </manifest>
